@@ -1,2 +1,3 @@
-# Comp-3004-W21 A2 Ege Karabacak 101010870 
+CrazyEights with Test Cases
+This is a project i had to do for a course in my program.
 The tests took alot more than actual coding of the whole game.
